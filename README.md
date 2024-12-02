@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Soy Javi, estudiante de universidad de la UCM y estudio un grado en ciencia de datos
+
 <!--
 **Javi-MZ/Javi-MZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
