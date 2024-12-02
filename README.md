@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Soy Javi, estudiante de universidad de la UCM y estudio un grado en ciencia de datos
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!--
 **Javi-MZ/Javi-MZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
